@@ -98,5 +98,4 @@ This project consists of two microservices: ToDo Service and User Service.
 ### Note
 - Each API will call the /checkToken API in the UserService to validate the token's expiration and user existence.
 
-## Deadline
-2 Weeks (27-5-2024)
+ 
